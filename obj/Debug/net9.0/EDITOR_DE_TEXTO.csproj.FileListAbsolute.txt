@@ -1,0 +1,14 @@
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\bin\Debug\net9.0\EDITOR_DE_TEXTO.exe
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\bin\Debug\net9.0\EDITOR_DE_TEXTO.deps.json
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\bin\Debug\net9.0\EDITOR_DE_TEXTO.runtimeconfig.json
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\bin\Debug\net9.0\EDITOR_DE_TEXTO.dll
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\bin\Debug\net9.0\EDITOR_DE_TEXTO.pdb
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.AssemblyInfo.cs
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.dll
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\refint\EDITOR_DE_TEXTO.dll
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.pdb
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\EDITOR_DE_TEXTO.genruntimeconfig.cache
+C:\Users\erick\Desktop\EDITOR DE TEXTO\EDITOR_DE_TEXTO\obj\Debug\net9.0\ref\EDITOR_DE_TEXTO.dll
